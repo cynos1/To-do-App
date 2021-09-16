@@ -1,0 +1,14 @@
+
+.section-form{
+    display: flex;
+    padding-left: 10px;
+    margin:5px;
+    align-items: center;
+    justify-content: center;
+}
+.input{
+    border: 2px solid green;
+}
+.btn{
+    color:teal;
+}
